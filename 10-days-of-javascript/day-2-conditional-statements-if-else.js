@@ -1,6 +1,6 @@
 /*
 task name =
-Day 1: Functions
+Day 2: Conditional Statements: If-Else
 
 taks =
 Complete the getGrade(score) function in the editor. It has one parameter: an integer, ~score~ , denoting the number of points Julia earned on an exam. It must return the letter corresponding to her ~grade~ according to the following rules:
