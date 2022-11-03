@@ -23,15 +23,15 @@ expected output =
 
 //solution of the problem with explanation =
 function Rectangle(a, b) {
-  // myObject adinda bir obje olusturduk
+  // myObject adinda bir obje olusturduk.
   let myObject = {
-    // nesneler olusturup icine degerler atadik
+    // nesneler olusturup icine degerler atadik.
     length: a,
     width: b,
     perimeter: 2 * (a + b),
     area: a * b,
   };
-  // return komutu ile fonksiyonun disariya myObject objesini dondurmesini sagladik
+  // return komutu ile fonksiyonun disariya myObject objesini dondurmesini sagladik.
   return myObject;
 }
 
