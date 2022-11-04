@@ -1,6 +1,6 @@
 /*
 task name =
-Day 4: Create a Rectangle Object
+Day 5: Inheritance
 
 taks =
 We provide the implementation for a Rectangle class in the editor. Perform the following tasks:
